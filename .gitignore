@@ -1,0 +1,14 @@
+
+
+# all these files are ignored by git when commiting
+
+# dependencies and devDependencies in package.json and package-lock.json
+
+# node_modules folder in the root directory
+node_modules 
+
+dist
+dist-ssr
+*.local
+
+# Editor directories and files in VSCode

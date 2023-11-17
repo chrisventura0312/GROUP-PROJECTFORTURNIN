@@ -1,0 +1,31 @@
+/* NavBar.css */
+
+* {
+    box-sizing: border-box;
+    font-family: 'Fredoka One', cursive;
+    font-size: 23px; /* Adjust the font size as needed */
+}
+
+.fixed-top {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+    padding: 0px;
+    padding-left: 50px;
+    padding-right: 150px;
+}
+
+.navbar {
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    font-size: 36px; /* Adjust the font size as needed */
+}
+
+.ml-auto {
+    margin-left: auto !important;
+}
+
+.navbar-nav {
+    margin-right: 0; /* Remove default margin */
+}

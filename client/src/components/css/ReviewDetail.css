@@ -1,0 +1,47 @@
+/* ReviewDetail.css */
+
+.ReviewDetail {
+    padding: 20px;
+    font-size: 18px;
+}
+
+.reviewButton {
+    margin-top: 20px !important;
+}
+
+.reviewButton .btn-danger {
+    margin-left: 50px; /* Adjust the margin-left value as needed */
+}
+
+.reviewDetails {
+    background-color: #f8f9fa;
+    padding: 30px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.commentForm {
+    margin-bottom: 10px;
+}
+
+.allComments {
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+/* Add this to your existing CSS file or create a new one */
+
+.container-spacing {
+    margin-top: 20px; /* Adjust the margin-top value as needed */
+    margin-bottom: 20px; /* Adjust the margin-bottom value as needed */
+    padding: 50px;
+}

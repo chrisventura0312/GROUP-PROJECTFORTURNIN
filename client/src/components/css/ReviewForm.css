@@ -1,0 +1,40 @@
+/* ReviewForm.css */
+
+.form-title {
+    border-bottom: 2px solid #007bff;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    font-size: 28px; /* Adjust the font size as needed */
+}
+
+.review-form {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.error-message {
+    color: red;
+    margin-top: 5px;
+    font-size: 16px; /* Adjust the font size as needed */
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    font-size: 20px; /* Adjust the font size as needed */
+}
+
+input[type="text"],
+textarea,
+input[type="number"] {
+    font-size: 18px; /* Adjust the font size as needed */
+}
+
+.btn-primary,
+.btn-danger {
+    font-size: 20px; /* Adjust the font size as needed */
+}
+
+/* Add this to your existing CSS file or create a new one */
